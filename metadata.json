@@ -1,0 +1,7 @@
+{
+  "name": "MediPal: Your Health Assistant",
+  "description": "A friendly, AI-powered health assistant chatbot that helps users learn about common diseases, symptoms, first-aid, and home remedies in a clear and conversational way. Chat history is saved locally in your browser.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
